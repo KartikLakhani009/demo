@@ -1,0 +1,6 @@
+[submodule "newFolder/demo"]
+	path = newFolder/demo
+	url = https://github.com/KartikLakhani009/demo.git
+[submodule "newFolder/demo3"]
+	path = newFolder/demo3
+	url = https://github.com/KartikLakhani009/demo3.git
